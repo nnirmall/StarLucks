@@ -1,4 +1,4 @@
-This project is build to demonstrate and practice frontend skills for a starbucks website.
+This project is build to demonstrate and practice and enhance FullStack skills of the starbucks website.
 
 
 I do not hold the rights on the design. It is soley for the purpose of learning.
